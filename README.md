@@ -11,7 +11,7 @@ Este proyecto implementa un flujo de datos desde bases de datos SQL Server hacia
 - **`scripts/`**: Scripts Python para carga, replicación y monitoreo.
 - **`config/`**: Configuraciones para bases de datos y BigQuery.
 - **`diagrams/`**: Diagramas de arquitectura.
-- **`tests/`**: Scripts de prueba automatizada.
+- **`tests/`**: Scripts de prueba automatizada.(in development...)
 - **`data/`**: Archivos CSV de datos originales.
 
 ## Requisitos
