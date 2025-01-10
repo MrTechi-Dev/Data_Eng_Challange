@@ -11,3 +11,7 @@ config/*.json
 
 # BigQuery cache
 *.log
+
+# Tests
+.tests/*.py
+
